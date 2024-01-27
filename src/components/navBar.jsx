@@ -13,7 +13,7 @@ export default function Navbar() {
         {/* <Link to="../"> */}
         <a class="flex items-center space-x-3 rtl:space-x-reverse">
           <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-            <p style={{ marginLeft: "40px" }}>ShortMe</p>
+            <p style={{ marginLeft: "40px" }}>ShortMee</p>
           </span>
         </a>
         {/* </Link> */}

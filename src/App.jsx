@@ -124,7 +124,7 @@ function App() {
             }}
           >
             <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-              <p style={{ marginLeft: "25px", fontSize: "48px" }}>Shortme</p>
+              <p style={{ marginLeft: "25px", fontSize: "48px" }}>Shortmee</p>
             </span>{" "}
           </p>{" "}
         </div>
@@ -229,7 +229,7 @@ function App() {
               padding: "0",
             }}
           >
-            Unleash the potential of ShortMe, your tech-forward URL shortening
+            Unleash the potential of ShortMee, your tech-forward URL shortening
             tool. Transform data into content gold effortlessly. Create,
             analyze, and safeguard your brand with swift precision.{" "}
           </p>{" "}
