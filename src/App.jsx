@@ -124,7 +124,7 @@ function App() {
             }}
           >
             <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-              <p style={{ marginLeft: "25px", fontSize: "48px" }}>Shortmee</p>
+              <p style={{ marginLeft: "25px", fontSize: "48px" }}>ShortMee</p>
             </span>{" "}
           </p>{" "}
         </div>
